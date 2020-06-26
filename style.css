@@ -1,0 +1,43 @@
+.main{
+    /* border: 3px solid black ; */
+    width: 250px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: white
+    
+}
+.fal{
+    text-align: center;
+background-color:rgb(34, 176, 184);
+
+}
+
+
+.result{
+
+width: 92%;
+height: 35px;
+background-color:rgb(34, 176, 184);
+color:blue;
+
+}
+
+.btn{
+    
+    background-color: gray;
+    width: 47px;
+    margin-top: 8px;
+    margin-right: 12px;
+    color: skyblue;
+    
+
+
+}
+.last{
+    text-align: center;
+    background-color:rgb(34, 176, 184);
+}
+.ali{
+    background-color: rgb(37, 146, 235);
+    width: 47px;
+}
